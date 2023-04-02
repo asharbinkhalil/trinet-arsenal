@@ -1,5 +1,5 @@
 ﻿# Trinet Arsenal
-## Backdoor Generatoe
+## Backdoor Generator
 ## Port Scanner
 ## DOS Attacker
 Q1: Make a setup of injecting TCP/IP custom made packet using python. 
