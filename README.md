@@ -1,6 +1,7 @@
-﻿      
-![](/imgs/Aspose.Words.8417030e-5965-4648-bb51-beb935028195.001.png)
-
+﻿# Trinet Arsenal
+## Backdoor Generatoe
+## Port Scanner
+## DOS Attacker
 Q1: Make a setup of injecting TCP/IP custom made packet using python. 
 
 programming, the code should perform following properties.
